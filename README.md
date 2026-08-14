@@ -16,7 +16,7 @@ Este proyecto consiste en la creación, diseño e implementación desde cero de 
 
 El esquema consta de **3 tablas de dimensión** (`categorias`, `productos`, `clientes`) y **1 tabla de hechos** (`ventas`):
 
-![Modelo Entidad-Relación - Ventas_Tech_DB](erd_ventas_tech_db.png)
+![Modelo Entidad-Relación - Ventas_Tech_DB](erd_ventas_tech.png)
 
 ---
 
